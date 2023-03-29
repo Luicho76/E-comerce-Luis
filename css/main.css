@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --clr-main: #4b33a8;
+  --clr-white: #ececec;
+  --clr-black: #2d2d2d;
+  --clr-gray: #e2e2e2;
+  --clr-red: #961818;
+  /* 
+  --clr-dark: #1b1f21;
+  --clr-main-hover: #4b33a8;
+  --clr-main-focus: #4b33a8;
+  --clr-main-focus-hover: #4b33a8;
+  --clr-main-focus-active: #4b33a8;
+  */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
