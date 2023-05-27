@@ -290,3 +290,11 @@ main {
 .disabled {
   display: none;
 }
+
+/*** MEDIA QUERIES ***/
+
+@media screen and (max-width: 600px) {
+  main {
+    background-color: red;
+  }
+}
